@@ -56,9 +56,6 @@
 								Relatórios
 							</a>
 							<div class="dropdown-menu">
-								<a class="dropdown-item" href="{{ url('/notas-turma') }}" 
-								target="about_blank">Relatorio notas por turma</a>
-								<div class="dropdown-divider"></div>
 								<a class="dropdown-item" href="{{ url('/boletim-individual') }}"
 								target="about_blank">Boletim Individual</a>
 							</div>

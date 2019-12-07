@@ -52,7 +52,7 @@ CREATE TABLE `alunos` (
 INSERT INTO `alunos` (`id`, `nome`, `data_nascimento`, `endereco`, `bairro`, `cep`, `cidade`, `estado`, `telefone`, `nacionalidade`, `naturalidade`, `cpf`, `nome_pai`, `cpf_pai`, `nome_mae`, `cpf_mae`) VALUES
 (2, 'Arthu Vinicius D. Santiago', '1996-01-05', 'Avenida presidente Ernesto Geisel', 'Bosque das magueiras', '79092-265', 'Campo Grande', 'Mato Grosso do Sul', '(67)9913-14367', 'Brasilerio', 'Pacaja', '025.520.236-15', 'Edvan de Melo Santiago', '028.852.456-17', 'Alessandra Demetrio Santiago', '123.321.147-58'),
 (5, 'Faluna de tal', '1990-01-05', 'Rua Senador Queiroz', 'Bosque das magueiras', '79092-265', 'Campo Grande', 'Mato Grosso do Su', '(67)6325-8596', 'Brasileira', 'Cidade dos fulanos', '021.023.258-15', 'Ciclaro de tal da silva', '021.025.258-78', 'Beltrana da silva', '789.456.123-96'),
-(6, 'Romario Cezar', '2019-11-21', 'Avenida presidente Ernesto Geisel', 'São Francisco', '790920-11', 'CAMPO GRANDE', 'Mato Grosso do Su', '67991314367', 'Brasileiro', 'Cidade dos fulanos', '02899926217', 'Ciclaro de tal da silva', '028.852.456-17', 'Alessandra Demetrio Santiago', '02899926217');
+(6, 'Romario Cezar', '2019-11-21', 'Avenida presidente Ernesto Geisel', 'São Francisco', '790920-11', 'CAMPO GRANDE', 'Mato Grosso do Su', '67991314367', 'Brasileiro', 'Cidade dos fulanos', '02899926217', 'Ciclaro de tal da silva', '028.852.456-17', 'Alessandra Demetrio Santiago', '02899926217'),
 (7, 'Jeffery Ornellas', '2019-01-10', 'Rua Argemiro Fialho', 'Vl. Bandeirantes', '79000-100', 'CAMPO GRANDE', 'Mato Grosso do Sul', '6799999999', 'Brasileiro', 'Campo Grande', '11111111111', 'Pai', '22222222222', 'Mãe', '33333333333');
 
 -- --------------------------------------------------------
